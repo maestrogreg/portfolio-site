@@ -23,6 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+#caption {
+  text-align: right;
+  @media (max-width: 767px) {
+    display: none;
+  }
+}
 
 .App-link {
   color: #61dafb;
