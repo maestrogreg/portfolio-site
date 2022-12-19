@@ -48,7 +48,7 @@ export default class Skills extends Component{
               </div>
               <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
                 <div className="progress-wrap">
-                  <h3>CSS3</h3>
+                  <h3>Angular</h3>
                   <div className="progress">
                     <div className="progress-bar color-4" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{width: '90%'}}>
                       <span>90%</span>
@@ -68,7 +68,7 @@ export default class Skills extends Component{
               </div>
               <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
                 <div className="progress-wrap">
-                  <h3>Docker</h3>
+                  <h3>Postgres</h3>
                   <div className="progress">
                     <div className="progress-bar color-6" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{width: '80%'}}>
                       <span>80%</span>

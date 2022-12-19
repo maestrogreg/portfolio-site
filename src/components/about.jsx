@@ -13,8 +13,8 @@ export default class About extends Component{
                     <div className="about-desc">
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
-                      <p><strong>Hi I'm Gregory Izuka</strong>  a software developer from Nigeria, passionate about learning, and a lover of tecchnology. I have some years of experience programming using the JavaScript language, starting first from the Front-End using React and BootStrap and later proceeding to learn and work with the Back-End using NodeJS and ExpressJs.</p>
-                      <p> I love software engineering because its a career field that gives room for imagination and creativity, there is no limit to what you can achieve in this field as long as you put your mind to it and stay positive.</p>
+                      <p><strong>Hi I'm Gregory Izuka</strong>  a software developer from Nigeria, passionate about learning, and a lover of technology. I have some years of experience programming using TypeScript, Angular, React and NodeJS. <span> I love software engineering because its a career field that gives room for imagination and creativity, there is no limit to what you can achieve in this field as long as you put your mind to it and stay positive.</span></p>
+                     
                     </div>
                   </div>
                 </div>

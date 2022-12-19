@@ -15,6 +15,17 @@ export default class Experience extends Component{
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2><a href="#">Full Stack Developer at Seamfix</a> <span>2021 - Present</span></h2>
+                        <p>Part of a team that built and maintain a platform that enables organisations to safely manage their devices and ensure they are used for the specific purpose.</p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
