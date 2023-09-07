@@ -15,11 +15,11 @@ export default class imageCounters extends Component{
                 <span className="colorlib-counter-label">work hours per week</span>
               </div>
               <div className="col-md-4 text-center animate-box">
-                <span className="colorlib-counter js-counter" data-from={0} data-to={36} data-speed={5000} data-refresh-interval={50} />
+                <span className="colorlib-counter js-counter" data-from={0} data-to={43} data-speed={5000} data-refresh-interval={50} />
                 <span className="colorlib-counter-label">Projects</span>
               </div>
               <div className="col-md-4 text-center animate-box">
-                <span className="colorlib-counter js-counter" data-from={0} data-to={4} data-speed={5000} data-refresh-interval={50} />
+                <span className="colorlib-counter js-counter" data-from={0} data-to={5} data-speed={5000} data-refresh-interval={50} />
                 <span className="colorlib-counter-label">Years of Experience</span>
               </div>
             </div>

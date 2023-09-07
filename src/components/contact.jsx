@@ -20,7 +20,8 @@ const Contact = ()=>{
           alert('form submitted');
       })
       .catch((err)=>{
-          alert('form not submitted');
+          // alert('form not submitted');
+          console.log(err)
       })
     }
       return (
@@ -49,7 +50,7 @@ const Contact = ()=>{
                     <i className="icon-map" />
                   </div>
                   <div className="colorlib-text">
-                    <p>7 Asajon Way, Eti-Osa, Sangotedo, Lagos</p>
+                    <p>Lagos, Nigeria</p>
                   </div>
                 </div>
                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
